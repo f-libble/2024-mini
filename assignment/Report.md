@@ -21,7 +21,7 @@ The following video demonstration shows that with our max_bright and min_bright 
 
 Modifying the `exercise_sound.py`, it now generates sound using PWM (Pulse Width Modulation) on a speaker to play the main melody of the Super Mario Bros theme. The melody is represented by a list of frequencies, and each note is played for a specific duration using a loop. The following video demonstrates the Super Mario Bros theme song playing:
 
-- [Exercise 2 - Demo.mov](https://github.com/f-libble/2024-mini/blob/main/assignment/Exercise%202%20-%20Demo.mov)
+- [Exercise 2 - Demo.mov](https://github.com/f-libble/2024-mini/blob/main/assignment/Exercise%202%20-%20Demo%20.mov)
 
 
 ## Exercise 3 Answer and Explanation 
