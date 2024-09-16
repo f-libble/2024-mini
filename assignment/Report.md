@@ -25,3 +25,7 @@ Modifying the `exercise_sound.py`, it now generates sound using PWM (Pulse Width
 
 
 ## Exercise 3 Answer and Explanation 
+
+Exercise 3 consists of 2 parts, `exercise_game.py` and `exercise_login.py`. For `exercise_game.py` we needed to modify the existing code to be able to communicate with a realtime Firebase database. As the code sends the data to the Firebase database, it uses a user ID to specify in the URL to the realtime database that the data being sent should fall under a certain user. Next, in `exercise_login.py` we need to specify how we (r)egister, (l)ogin, and (v)iew a certain user specified by their email (Note: you can see the user's email in the view option).
+
+- [Exercise 3 - Demo](https://github.com/f-libble/2024-mini/tree/84d8c81bc4b57a3a5c471a9ada92a8d4c1cc0725/assignment/Exercise%203%20-%20Video%20%26%20Screenshots)
